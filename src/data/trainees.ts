@@ -91,7 +91,7 @@ export const TRAINEES: Trainee[] = [
       {
         texto: 'O professor te reprovou em Cálculo 3 porque você esqueceu o "+ C" no final da integral.',
         opcaoA: 'Invado o sistema do portal acadêmico usando SQL Injection (brincadeira, eu choro).',
-        opcaoB: 'Faço uma camiseta escrita "O + C é uma ilusão da Matrix" e vou pra aula todo dia.',
+        opcaoB: 'Faço uma camiseta escrita "+ C* " e vou pra aula todo dia.',
       },
       {
         texto: 'O código legado da EJ tem uma variável chamada `nao_tira_isso_pelo_amor_de_deus`.',
@@ -114,7 +114,7 @@ export const TRAINEES: Trainee[] = [
         opcaoB: 'Convenço o cliente de que menos sensores trazem um design mais "minimalista".',
       },
       {
-        texto: 'A sede está sem papel higiênico, sem café e o teto tem goteira. A solução de Vice-Presidência é:',
+        texto: 'A sede está sem papel higiênico, sem café e o teto tem goteira. A solução é:',
         opcaoA: 'Fazer um processo seletivo urgente focado apenas em "soft skills de sobrevivência".',
         opcaoB: 'Mandar um e-mail passivo-agressivo lembrando a todos dos "Nossos Valores".',
       },
